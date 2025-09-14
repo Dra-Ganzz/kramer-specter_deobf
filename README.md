@@ -21,4 +21,6 @@ a program can deobfuscate kramer/specter python to original code by KhanhNguyen9
 # Thanks for used!
 
 # Tutorial decrypt 
-<img src="gambar.png" alt="Deskripsi Gambar" width="300">
+<img src="Screenshot_20250915-011035_1.png" alt="Deskripsi Gambar" width="200">
+<img src="Screenshot_20250915-010838_1.png" alt="Deskripsi Gambar" width="300">
+<img src="Screenshot_20250915-010827_1.png" alt="Deskripsi Gambar" width="300">
