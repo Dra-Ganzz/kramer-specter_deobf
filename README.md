@@ -19,3 +19,6 @@ a program can deobfuscate kramer/specter python to original code by KhanhNguyen9
 ## you can post issue [here](https://github.com/KhanhNguyen9872/kramer-specter_deobf/issues/new)
 
 # Thanks for used!
+
+# Tutorial decrypt 
+<img src="gambar.png" alt="Deskripsi Gambar" width="300">
